@@ -1,6 +1,6 @@
 # MultiplayerMechanicsProgramming
 
-Hi! This project was created for my university module Multiplayer Mechanics Programming. In this module we got tasked with creating a multiplayer game in the unity game engine
+Hi! This project was created for my university module Multiplayer Mechanics Programming. In this module we got tasked with creating a multiplayer game in the unity game engine.
 ## Table of Contents
 - [Chess](#chess)
   * [About](#about)
