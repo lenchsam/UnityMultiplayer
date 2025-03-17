@@ -26,6 +26,8 @@ Hi! This project was created for my university module Multiplayer Mechanics Prog
 ## Future Features
  - 
 # Contact
+[Portfolio](https://lenchsam.com)
+
 [LinkedIn](https://www.linkedin.com/in/sam-lench-8586b6279/)
 
 [X](https://x.com/SamLenchGameDev)
