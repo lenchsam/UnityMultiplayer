@@ -22,7 +22,7 @@ This project was created for my university module Multiplayer Mechanics Programm
 ### Requirements
 
  - Unity 6000.0.19f1
- - Visual Studio Code (or
+ - Visual Studio Code (or your preferred IDE)
 
 ### Setup
  1. Clone the repository. 
