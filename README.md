@@ -38,6 +38,7 @@ This project was created for my university module Multiplayer Mechanics Programm
 ## Improvements I Would Make
   These are some improvements to the project that I would make should I do it again.
   - The camera implemetation. I would make this spawn a new camera system whenever a player joins the session.
+  - Health system needs improving
 # Contact
 [Portfolio](https://lenchsam.com)
 
