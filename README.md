@@ -1,8 +1,8 @@
-# MultiplayerMechanicsProgramming
+# Unity Multiplayer
 
 Hi! This project shows my implementation of a **multiplayer mechanics** in the **Unity** game engine using Unity Netcode.
 ## Table of Contents
-- [MultiplayerMechanicsProgramming](#multiplayermechanicsprogramming)
+- [Unity Multiplayer](#unity-multiplayer)
   * [About](#about)
   * [Useful Links](#useful-links)
   * [Features](#features)
